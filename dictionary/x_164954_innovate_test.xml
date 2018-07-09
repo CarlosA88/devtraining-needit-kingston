@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test" max_length="40" name="x_164954_innovate_test" type="collection">
+        <element label="TIME" max_length="40" name="time" type="glide_time"/>
+    </element>
+</database>
